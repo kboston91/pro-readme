@@ -43,7 +43,7 @@ const questions = [
   {
     type: 'input',
     name: 'usage',
-    message: 'Usage Instructions'
+    message: 'Usage Information'
   },
   {
     type: 'list',

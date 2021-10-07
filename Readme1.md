@@ -1,9 +1,9 @@
-# Pro-Readme
+# pro-readme
 ![](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
 
-This repo contains a node.js app that generates a professional readme using inquirer prompts
+This repo houses a project that allows a user to create a professional readme from the command line of the terminal using node and inquirer.
 
 ## Table of Contents (Optional)
 
@@ -14,16 +14,16 @@ If your README is very long, add a table of contents to make it easy for users t
 * [License](#license)
 * [Contributing](#contributing)
 * [Test](#test)
-* [Contact Information](#contact-information)
+* [Questions](#questions)
 
 
 ## Installation
 
-make sure node is installed on your machine, and run the command node index.js from the command line to answer the questions.
+Make sure node is installed on your device, type the command node index.js in the root folder where the project is located and answer the questions that follow.
 
 ## Usage
 
-Use this to create a custom professional readme.
+This application should generate a professional readme titled readme1 with all of the information that was input.
 
 ## License
 
@@ -31,11 +31,11 @@ MIT
 
 ## Contributing
 
-Suzette Boston https://github.com/kboston91/pro-readme
+Suzette Boston
 
 ## Test
 
-See the instructions, run the node index.js command from the terminal's command line and answer the questions. If a readme2.md file is generated with the information you provided, the app was successful.
+See the instructions, make sure node is installed on your device and that you are in the correct folder from your terminal. Enter the command node index.js and answer the questions that follow. A readme1 file should generate with the answers you provided in the root folder of the project.
 
 ## Questions
 
