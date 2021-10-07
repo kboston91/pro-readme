@@ -37,6 +37,10 @@ Suzette Boston
 
 See the instructions, make sure node is installed on your device and that you are in the correct folder from your terminal. Enter the command node index.js and answer the questions that follow. A readme1 file should generate with the answers you provided in the root folder of the project.
 
+
+https://user-images.githubusercontent.com/86276317/136328849-b7798c62-38ba-4745-a36c-be018c5b5862.mov
+
+
 ## Questions
 
 [GitHub](https://github.com/kboston91)
