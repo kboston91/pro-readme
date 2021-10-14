@@ -19,7 +19,7 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-Make sure node is installed on your device, type the command node index.js in the root folder where the project is located and answer the questions that follow.
+[ https://kboston91.github.io/pro-readme/] (https://kboston91.github.io/pro-readme/)
 
 ## Usage
 
